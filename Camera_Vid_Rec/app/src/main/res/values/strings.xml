@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Camera_Vid_Rec</string>
+    <string name="VideoRocorder">Cam Recorder</string>
+    <string name="Btn_Start_Recording">Start Recording</string>
+    <string name="StopVideoRecording">Play Recording</string>
+</resources>

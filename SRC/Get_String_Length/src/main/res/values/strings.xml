@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sum2Nums</string>
+    <string name="dfd" />
+    <string name="strCnt">length</string>
+    <string name="strclear">clear</string>
+    <string name="heading">Calculate String Length</string>
+    <string name="String_Enter">Enter String</string>
+    <string name="input">Enter String</string>
+</resources>
